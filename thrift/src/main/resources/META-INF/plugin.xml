@@ -4,10 +4,10 @@
   <description>Support for Thrift language</description>
   <change-notes>
     <![CDATA[
-      IntelliJ 2022.1 Support
+      IntelliJ 2023.1 Support
     ]]>
   </change-notes>
-  <vendor>@fedor</vendor>
+  <vendor>chris.li@bytedance.com</vendor>
   <idea-version since-build="212.4746.92"/><!-- Will be patched by the patchPluginXml task -->
 
   <depends>com.intellij.modules.platform</depends>
