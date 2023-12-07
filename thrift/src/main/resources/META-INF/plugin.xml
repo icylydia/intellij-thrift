@@ -4,7 +4,7 @@
   <description>Support for Thrift language</description>
   <change-notes>
     <![CDATA[
-      IntelliJ 2023.2 Support
+      IntelliJ 2023.3 Support
     ]]>
   </change-notes>
   <vendor>chris.li@bytedance.com</vendor>
