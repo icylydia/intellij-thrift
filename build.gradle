@@ -16,7 +16,7 @@ subprojects {
     apply plugin: 'org.jetbrains.intellij'
     intellij {
         version = project.property('ideaVersion')
-        plugins = ['copyright', 'java', 'org.intellij.scala:2023.3.17']
+        plugins = ['copyright', 'java', 'org.intellij.scala:2024.1.15']
         downloadSources = Boolean.valueOf(project.property('sources') as String)
         sameSinceUntilBuild = Boolean.valueOf(project.property('isEAP') as String)
     }
