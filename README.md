@@ -1,19 +1,8 @@
-[![Build Status](https://api.cirrus-ci.com/github/fkorotkov/intellij-thrift.svg)](https://cirrus-ci.com/github/fkorotkov/intellij-thrift)
-
 Plugin to support Thrift language in IntelliJ
 
-How to build
+Note
 ===============
 
-[JDK 11 or later](https://adoptium.net/) is required to build from source.
+The original repository has lain dormant for several years, rendering its code incompatible with the latest iterations of JetBrains IDEs.
 
-```bash
-./gradlew :thrift:buildPlugin
-```
-
-How to run locally with new changes
-===============
-
-```bash
-./gradlew :thrift:runIde
-```
+This fork diligently maintains synchronization with the latest versions of JetBrains IDEs, ensuring optimal performance for my daily usage.
